@@ -7,6 +7,17 @@ Clone repo or Fork It
  ``` js
  npm install
 ```
+
+#### Instruction
+create _.env_ file
+
+``` dotenv
+PORT=xxx
+BITLY_ACCESS_TOKEN=xxx
+ ```
+
+Praise buddha 🤪and lunch command:
+
 _Working on_
 
 ``` js
@@ -17,6 +28,8 @@ _Build_
  ``` js
  npm run build
  ```
+
+
 
 Feel free to improve this doc.
  
